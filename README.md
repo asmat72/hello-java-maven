@@ -22,7 +22,7 @@
                 - │ └── java/
                      - │ └── HelloWorld.java //
         - ├── pom.xml
-        - └── README.md
+        - └── README.md   (main): heloo-java-maven  pom.xml  README.md
 - 🧭 Step-by-Step Guide:
   - 1️⃣ Create the Java App:
       - Create the file `src/main/java/HelloWorld.java`
