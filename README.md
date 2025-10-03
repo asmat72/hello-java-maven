@@ -17,12 +17,12 @@
      - ✅ Screenshot of successful Jenkins build console output
 - 📦 Repository Structure:
        hello-java-maven/
-         ├── src/
-            │ └── main/
-                 │ └── java/
-                       │ └── HelloWorld.java
-         ├── pom.xml
-         └── README.md
+        - ├── src/
+           - │ └── main/
+                - │ └── java/
+                     - │ └── HelloWorld.java
+        - ├── pom.xml
+        - └── README.md
 - 🧭 Step-by-Step Guide:
   - 1️⃣ Create the Java App:
       - Create the file `src/main/java/HelloWorld.java`
