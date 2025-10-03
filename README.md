@@ -16,11 +16,11 @@
      - ✅ Jenkins Freestyle job configured to build the app
      - ✅ Screenshot of successful Jenkins build console output
 - 📦 Repository Structure:
-       hello-java-maven/
+      - hello-java-maven/
         - ├── src/
            - │ └── main/
                 - │ └── java/
-                     - │ └── HelloWorld.java
+                     - │ └── HelloWorld.java //
         - ├── pom.xml
         - └── README.md
 - 🧭 Step-by-Step Guide:
